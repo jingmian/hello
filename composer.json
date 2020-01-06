@@ -17,8 +17,5 @@
         "psr-4": {
             "Jingmian\\": "src/"
         }
-    },
-    "files": [
-        "src/Test.php"
-    ]
+    }
 }
