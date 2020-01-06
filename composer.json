@@ -1,0 +1,21 @@
+{
+    "name": "jingmina/hello",
+    "description": "打印hello",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "镜面",
+            "email": "153555712@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Sima\\": "src/"
+        }
+    }
+}
